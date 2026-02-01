@@ -66,7 +66,7 @@ Final Output
 
 ### 1️⃣ Clone the project
 - git clone https://github.com/tulika105/AI-File-Reader-Agent.git
-- cd file-reader-agent
+- cd File-Reader-Agent
 
 ### 2️⃣ Create a virtual environment
 - python -m venv venv
