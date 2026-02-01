@@ -65,7 +65,7 @@ Final Output
 ### ⚙️ How to Set Up and Run
 
 ### 1️⃣ Clone the project
-git clone https://github.com/<your-username>/file-reader-agent.git
+git clone https://github.com/tulika105/AI-File-Reader-Agent.git
 cd file-reader-agent
 
 ### 2️⃣ Create a virtual environment
