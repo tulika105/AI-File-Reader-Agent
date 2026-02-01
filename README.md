@@ -65,19 +65,19 @@ Final Output
 ### ⚙️ How to Set Up and Run
 
 ### 1️⃣ Clone the project
-git clone https://github.com/tulika105/AI-File-Reader-Agent.git
-cd file-reader-agent
+- git clone https://github.com/tulika105/AI-File-Reader-Agent.git
+- cd file-reader-agent
 
 ### 2️⃣ Create a virtual environment
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 ### 3️⃣ Install dependencies
 pip install -r requirements.txt
 
 ### 4️⃣ Add your API key
-Create a .env file:
-GROQ_API_KEY=your_groq_api_key_here
+- Create a .env file:
+- GROQ_API_KEY=your_groq_api_key_here
 
 ### ▶️ Run the Agent
 python agent.py
